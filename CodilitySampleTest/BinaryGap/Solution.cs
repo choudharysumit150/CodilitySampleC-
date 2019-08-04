@@ -28,6 +28,7 @@ namespace CodilitySampleTest.BinaryGap
             return getMaxGap(zerosList);
         }
 
+      
         public static int getMaxGap(ArrayList zerosList)
         {
             int maximumGap = 0;
