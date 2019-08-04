@@ -10,7 +10,7 @@ namespace CodilitySampleTest
     {
         static void Main(string[] args)
         {
-            Hello 
+            Console.WriteLine("Codility Sample Tests");
         }
     }
 }
