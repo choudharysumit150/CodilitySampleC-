@@ -17,8 +17,8 @@ namespace CodilitySampleTest.FrogJmp
             {
                 return 0;
             }
-            
-            return 0;
+
+            return getMinimumSteps(X, Y, D);
         }
         public static int getMinimumSteps(int fromPoint, int toPoint, int distanceInEachStep)
         {
