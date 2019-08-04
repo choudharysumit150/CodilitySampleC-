@@ -10,6 +10,7 @@ namespace CodilitySampleTest
     {
         static void Main(string[] args)
         {
+            Hello 
         }
     }
 }
